@@ -1,0 +1,767 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      <meta http-equiv="x-ua-compatible" content="ie=edge">
+      
+      
+      
+      
+        <meta name="lang:clipboard.copy" content="Copy to clipboard">
+      
+        <meta name="lang:clipboard.copied" content="Copied to clipboard">
+      
+        <meta name="lang:search.language" content="en">
+      
+        <meta name="lang:search.result.none" content="No matching documents">
+      
+        <meta name="lang:search.result.one" content="1 matching document">
+      
+        <meta name="lang:search.result.other" content="# matching documents">
+      
+        <meta name="lang:search.tokenizer" content="[\s\-]+">
+      
+      <link rel="shortcut icon" href="../img/favicon.ico">
+      <meta name="generator" content="mkdocs-0.17.2, mkdocs-material-2.2.5">
+    
+    
+      
+        <title>Solar Pi Apps - Solar Pi Docs</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/application.bcabdff3.css">
+      
+        <link rel="stylesheet" href="../assets/stylesheets/application-palette.792431c1.css">
+      
+    
+    
+      <script src="../assets/javascripts/modernizr.1aa3b519.js"></script>
+    
+    
+      
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700|Roboto+Mono">
+        <style>body,input{font-family:"Roboto","Helvetica Neue",Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Roboto Mono","Courier New",Courier,monospace}</style>
+      
+      <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    
+    
+    
+  </head>
+  
+    
+    
+    
+      <body data-md-color-primary="light-green" data-md-color-accent="indigo">
+    
+  
+    <svg class="md-svg">
+      <defs>
+        
+        
+      </defs>
+    </svg>
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="drawer">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="search">
+    <label class="md-overlay" data-md-component="overlay" for="drawer"></label>
+    
+      <header class="md-header" data-md-component="header">
+  <nav class="md-header-nav md-grid">
+    <div class="md-flex">
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <a href="../index.html" title="Solar Pi Docs" class="md-header-nav__button md-logo">
+          
+            <img src="../img/favicon.ico" width="24" height="24">
+          
+        </a>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <label class="md-icon md-icon--menu md-header-nav__button" for="drawer"></label>
+      </div>
+      <div class="md-flex__cell md-flex__cell--stretch">
+        <div class="md-flex__ellipsis md-header-nav__title" data-md-component="title">
+          
+            
+              <span class="md-header-nav__topic">
+                Solar Pi Docs
+              </span>
+              <span class="md-header-nav__topic">
+                Solar Pi Apps
+              </span>
+            
+          
+        </div>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        
+          
+            <label class="md-icon md-icon--search md-header-nav__button" for="search"></label>
+            
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="search"></label>
+  <div class="md-search__inner">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" required placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="query">
+      <label class="md-icon md-search__icon" for="search"></label>
+      <button type="reset" class="md-icon md-search__icon" data-md-component="reset">&#xE5CD;</button>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="result">
+          <div class="md-search-result__meta">
+            Type to start searching
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+          
+        
+      </div>
+      
+    </div>
+  </nav>
+</header>
+    
+    <div class="md-container">
+      
+        
+      
+      
+      <main class="md-main">
+        <div class="md-main__inner md-grid" data-md-component="container">
+          
+            
+              <div class="md-sidebar md-sidebar--primary" data-md-component="navigation">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    <nav class="md-nav md-nav--primary" data-md-level="0">
+  <label class="md-nav__title md-nav__title--site" for="drawer">
+    <span class="md-nav__button md-logo">
+      
+        <img src="../img/favicon.ico" width="24" height="24">
+      
+    </span>
+    Solar Pi Docs
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../index.html" title="Home" class="md-nav__link">
+      Home
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../getting-started/index.html" title="Getting Started" class="md-nav__link">
+      Getting Started
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active">
+    
+    <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="toc">
+    
+      
+    
+    
+      <label class="md-nav__link md-nav__link--active" for="toc">
+        Solar Pi Apps
+      </label>
+    
+    <a href="index.html" title="Solar Pi Apps" class="md-nav__link md-nav__link--active">
+      Solar Pi Apps
+    </a>
+    
+      
+<nav class="md-nav md-nav--secondary">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="toc">Table of contents</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#solar-pi-welcome" title="Solar Pi Welcome" class="md-nav__link">
+    Solar Pi Welcome
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#welcome" title="Welcome!" class="md-nav__link">
+    Welcome!
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#starter-guide" title="Starter Guide" class="md-nav__link">
+    Starter Guide
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#applications" title="Applications" class="md-nav__link">
+    Applications
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#guides-tutorials" title="Guides &amp; Tutorials" class="md-nav__link">
+    Guides &amp; Tutorials
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#system-info" title="System Info" class="md-nav__link">
+    System Info
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#start-coding" title="Start Coding" class="md-nav__link">
+    Start Coding
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#solar-pi-settings" title="Solar Pi Settings" class="md-nav__link">
+    Solar Pi Settings
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#performance-power" title="Performance &amp; Power" class="md-nav__link">
+    Performance &amp; Power
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#other-settings" title="Other Settings" class="md-nav__link">
+    Other Settings
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#updates" title="Updates" class="md-nav__link">
+    Updates
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#languages" title="Languages" class="md-nav__link">
+    Languages
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#battery-meter" title="Battery Meter" class="md-nav__link">
+    Battery Meter
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#solar-pi-docs" title="Solar Pi Docs" class="md-nav__link">
+    Solar Pi Docs
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#a-byte-of-python" title="A Byte of Python" class="md-nav__link">
+    A Byte of Python
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#java-guide" title="Java Guide" class="md-nav__link">
+    Java Guide
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#moodle" title="Moodle" class="md-nav__link">
+    Moodle
+  </a>
+  
+</li>
+      
+      
+      
+    </ul>
+  
+</nav>
+    
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../hardware/index.html" title="Hardware" class="md-nav__link">
+      Hardware
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-5" type="checkbox" id="nav-5">
+    
+    <label class="md-nav__link" for="nav-5">
+      Advanced Things
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-5">
+        Advanced Things
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Advanced-Things/terminal/index.html" title="Terminal" class="md-nav__link">
+      Terminal
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Advanced-Things/commands/index.html" title="Linux Commands" class="md-nav__link">
+      Linux Commands
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Advanced-Things/python/index.html" title="Python" class="md-nav__link">
+      Python
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Advanced-Things/programming-glossary/index.html" title="Programming Glossary" class="md-nav__link">
+      Programming Glossary
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../about/index.html" title="About" class="md-nav__link">
+      About
+    </a>
+  </li>
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="toc">Table of contents</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#solar-pi-welcome" title="Solar Pi Welcome" class="md-nav__link">
+    Solar Pi Welcome
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#welcome" title="Welcome!" class="md-nav__link">
+    Welcome!
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#starter-guide" title="Starter Guide" class="md-nav__link">
+    Starter Guide
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#applications" title="Applications" class="md-nav__link">
+    Applications
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#guides-tutorials" title="Guides &amp; Tutorials" class="md-nav__link">
+    Guides &amp; Tutorials
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#system-info" title="System Info" class="md-nav__link">
+    System Info
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#start-coding" title="Start Coding" class="md-nav__link">
+    Start Coding
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#solar-pi-settings" title="Solar Pi Settings" class="md-nav__link">
+    Solar Pi Settings
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#performance-power" title="Performance &amp; Power" class="md-nav__link">
+    Performance &amp; Power
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#other-settings" title="Other Settings" class="md-nav__link">
+    Other Settings
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#updates" title="Updates" class="md-nav__link">
+    Updates
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#languages" title="Languages" class="md-nav__link">
+    Languages
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#battery-meter" title="Battery Meter" class="md-nav__link">
+    Battery Meter
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#solar-pi-docs" title="Solar Pi Docs" class="md-nav__link">
+    Solar Pi Docs
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#a-byte-of-python" title="A Byte of Python" class="md-nav__link">
+    A Byte of Python
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#java-guide" title="Java Guide" class="md-nav__link">
+    Java Guide
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#moodle" title="Moodle" class="md-nav__link">
+    Moodle
+  </a>
+  
+</li>
+      
+      
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                
+                <h1 id="solar-pi-apps-guides-tutorials">Solar Pi Apps, Guides &amp; Tutorials</h1>
+<div class="admonition info">
+<p class="admonition-title">Info</p>
+<p>All of the Solar Pi apps were created with <a href="http://appjar.info">appJar</a>, a simple tkinter GUI wrapper for Python.</p>
+</div>
+<p>Your Solar Pi comes with a few custom apps that we have written to help you use your Solar Pi, along with some offline guides and tutorials that you can access. Here, we'll explain what each one is for, and how to use them.</p>
+<div class="admonition warning">
+<p class="admonition-title">Warning</p>
+<p>Solar Pi apps can be found at <code>/usr/local/bin/Solar Pi</code>. Please do NOT modify or save anything here, as important things might get broken and any files saved here could be deleted during an update. If you want to have a play, copy the folder, and play with that :)</p>
+</div>
+<h2 id="solar-pi-welcome">Solar Pi Welcome</h2>
+<p>This is the main Solar Pi app that you see when you first log on to your Solar Pi. The toolbar at the top gives you options to shutdown, reboot of log out of your Pi. Also, you can change settings, open the file manager, see what the Solar Pi project is about and read these docs.</p>
+<h3 id="welcome">Welcome!</h3>
+<p><img alt="welcome" src="../img/welcome.png" /></p>
+<p>This tab introduces you to your Solar Pi. There are links to various, useful apps here, such as the <a href="index.html#languages">languages</a> app to allow you to change the display language of your Solar Pi.</p>
+<h3 id="starter-guide">Starter Guide</h3>
+<p>In this tab, it explains the basics of using your Solar Pi. It also provides a link to this page in the docs.</p>
+<p>Click on the button to read about that topic.</p>
+<h3 id="applications">Applications</h3>
+<p>The applications tab shows you apps that you might find useful. Click on a line in the box on the left to select it, then to launch it, click on the button.</p>
+<h3 id="guides-tutorials">Guides &amp; Tutorials</h3>
+<p>Here, you'll find the guides and tutorials for programming. Like the Applications tab, click on a line in the box on the left and to launch it, click on the button.</p>
+<h3 id="system-info">System Info</h3>
+<p>In this tab, it displays the system information of your Solar Pi. It will give you information about your Solar Pi's hardware, software and disk usage.</p>
+<h2 id="start-coding">Start Coding</h2>
+<p>This app helps you decide where to start coding. It explains the 3 main programming languages supported on the Solar Pi: Scratch, <a href="../Advanced-Things/python/index.html">Python</a> and Java.</p>
+<p><img alt="programming screenshot" src="../img/startcoding.png" /></p>
+<p>To do this, select a language, and click <code>More Info</code>. A popup box should then appear giving you a brief overview of the language. Once you have decided, click <code>Go</code>, and the relevant IDE should launch.</p>
+<h2 id="solar-pi-settings">Solar Pi Settings</h2>
+<p>The Solar Pi Settings app allows you to change settings for your Solar Pi. These are settings that can't be changed from the default Raspbian installation, and are specific to the Solar Pi. When you have finished changing the settings, ensure that you click <code>Apply</code> and reboot.</p>
+<p>If you want to revert to default settings, click <code>Restore Defaults</code> and reboot if asked.</p>
+<h3 id="performance-power">Performance &amp; Power</h3>
+<p><img alt="perf-power" src="../img/perfpower.png" /></p>
+<p>These settings are related to the performance and power of your Solar Pi. The slider at the top of this section allows you to change the clock speed of your Solar Pi's CPU (<strong>C</strong>entral <strong>P</strong>rocessing <strong>U</strong>nit - effectively the 'brain' of your Solar Pi.). The default is <strong>1200MHz</strong> (Megahertz), which will give you maximum performance, but you can lower it to <strong>600MHz</strong> if you would like to extend the battery life of your Solar Pi. There is also a text box where you can type the clock speed in, if this is easier for you.</p>
+<p>The checkbox that's labelled <code>Show battery meter</code> controls whether you see the battery meter that is on the bottom left of your screen. If this gets in the way, you can remove it.</p>
+<p>There is another checkbox that's labelled <code>Show charging animation</code> - uncheck it if you want to see the actual battery level while charging.</p>
+<h3 id="other-settings">Other Settings</h3>
+<p><img alt="other-settings" src="../img/othersettings.png" /></p>
+<p>The checkbox that's labelled <code>Launch the Solar Pi welcome application at startup</code> controls if you see the Solar Pi Welcome app when you log in. This is on by default, but once you get used to using your Solar Pi, you can turn it off.</p>
+<p>There's another checkbox that's labelled <code>Show Cowsay at terminal launch</code> - uncheck this if you don't want to see the rainbow cow/penguin when you open the terminal.</p>
+<p>The next option is labelled <code>Theme for Solar Pi apps:</code>. This controls how Solar Pi apps look. The default is <code>'Solar Pi'</code>, but you can always change it by clicking on the box, and selecting a theme from the drop down menu.</p>
+<p>Finally, at the bottom of the section, there are buttons which say <code>Change Advanced Settings</code> and <code>Languages</code>. The <code>Change Advanced Settings</code> takes you to the Raspberry Pi Configuration app, and will allow you to tweak things further. The <code>Languages</code> button takes you to the <a href="index.html#languages">Languages app</a>, and will allow you to change the display language of your Solar Pi.</p>
+<div class="admonition warning">
+<p class="admonition-title">Warning</p>
+<p>Only go into the Advanced Settings if you know what you are doing!</p>
+</div>
+<h3 id="updates">Updates</h3>
+<p><img alt="updates" src="../img/updates.png" /></p>
+<p>You can update your Solar Pi from here. Insert the Solar Pi update USB stick, and press <code>Update</code>. To update your Solar Pi, you will need at least 30% battery. Please don't shut the Solar Pi down during this process, and be patient - the process may take a while.</p>
+<h2 id="languages">Languages</h2>
+<p><img alt="languages" src="../img/languages.png" /></p>
+<p>This allows you to change the display language of your Solar Pi. If the language that is currently used is not suitable, you can change it by clicking on the button for your language. After that, you'll need to reboot your Solar Pi.</p>
+<h2 id="battery-meter">Battery Meter</h2>
+<p><img alt="battery" src="../img/charging.gif" /></p>
+<p>At the bottom left corner of the display, you will find a battery meter. This displays how much charge you have left in the batteries. You can change the settings for this by going to <code>Solar Pi Settings &gt; Performance &amp; Power</code></p>
+<h2 id="solar-pi-docs">Solar Pi Docs</h2>
+<p>Not really an app, but still important. This is all the documentation for your Solar Pi. It opens in the Chromium web browser, to allow for easy navigation with a touchscreen. You can navigate different pages via clicking on the icon in the top left, and you can skip through different sections of a page through the menu on the right. You can search through the docs using the search bar in the top right. Links are highlighted in <a href="index.html#solar-pi-docs">green</a>, and these will take you to different places in the docs.</p>
+<h2 id="a-byte-of-python">A Byte of Python</h2>
+<p>This isn't created by us! It's created by <a href="https://www.gitbook.com/@swaroopch">Swaroop C H</a>, and you can view the original <a href="https://python.swaroopch.com/">here</a>. This is to demonstrate that the Solar Pi can display E-Books, so that users can learn about computing and programming.</p>
+<p>This is a fantastic Python guide that teaches beginners how to start programming in Python. This opens in the Chromium browser, so that it is easy for you to use when using the touchscreen.</p>
+<h2 id="java-guide">Java Guide</h2>
+<p>Again, this wasn't created by us! It's created by <a href="https://www.tutorialspoint.com/index.htm">Tutorials Point</a> and you can view the original <a href="https://www.tutorialspoint.com/java/">here</a>. This is to demonstrate how the Solar Pi can display offline webpages that allow users to still learn about computing and programming even though they might not be connected to the internet.</p>
+<p>This offline website will teach you how to program in Java; a language that is available on the Solar Pi. Designed for beginners, you should be coding in no time! This also opens in the Chromium browser.</p>
+<h2 id="moodle">Moodle</h2>
+<p>An e-learning platform that allows you to learn about various topics. Log in with the following credentials:</p>
+<ul>
+<li>
+<p><strong>Username:</strong> <code>solarpi</code></p>
+</li>
+<li>
+<p><strong>Password:</strong> <code>solarpi</code></p>
+</li>
+</ul>
+                
+                  
+                
+              
+              
+                
+              
+            </article>
+          </div>
+        </div>
+      </main>
+      
+        
+<footer class="md-footer">
+  
+    <div class="md-footer-nav">
+      <nav class="md-footer-nav__inner md-grid">
+        
+          <a href="../getting-started/index.html" title="Getting Started" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-back md-footer-nav__button"></i>
+            </div>
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
+                  Previous
+                </span>
+                Getting Started
+              </span>
+            </div>
+          </a>
+        
+        
+          <a href="../hardware/index.html" title="Hardware" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
+                  Next
+                </span>
+                Hardware
+              </span>
+            </div>
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-forward md-footer-nav__button"></i>
+            </div>
+          </a>
+        
+      </nav>
+    </div>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+        powered by
+        <a href="http://www.mkdocs.org">MkDocs</a>
+        and
+        <a href="https://squidfunk.github.io/mkdocs-material/">
+          Material for MkDocs</a>
+      </div>
+      
+        
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    
+      <script src="../assets/javascripts/application.6cdc17f0.js"></script>
+      
+      <script>app.initialize({version:"0.17.2",url:{base:".."}})</script>
+      
+    
+    
+      
+    
+  </body>
+</html>
