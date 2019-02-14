@@ -2,9 +2,9 @@
 title: Solar Pi
 subtitle: 
 email: TeamSolarPi@gmail.com
-description: The website for the Solar Pi project
+description: A flexible, low cost solar powered computer for developing countries
 baseurl: "" # the subpath of your site, e.g. /blog
-url: ""
+url: "https://SolarPi.github.io"
 author:
 street_address: No, you're not going to my house for a visit
 city: No, you're not having the name of the city I take residence in
