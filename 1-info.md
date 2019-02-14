@@ -83,7 +83,7 @@ Our old Solar Pi also had a number of issues:<br>
 	</section>
 	<section>
 		<a class="image">
-			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
+			<img src="assets/images/trophy.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -96,7 +96,7 @@ Our old Solar Pi also had a number of issues:<br>
 				We also started to 3D print the case, but during the process, its gearbox failed! This meant that we attended the finals with half the case printed.<br><br>
 				Our main category was 'Tech for All', with our secondary one being 'Manufacturing'. At the TeenTech finals in London, it was was a pleasant surprise to see other guests taking interest in our project and (inbetween the visits to our stand) seeing the creative ideas in other teams' projects.<br>
 				Finally, after a nervewracking wait, we were presented with an award, winning the 'Tech for All' category!
-                    
+
 				</p>
 			</div>
 		</div>
