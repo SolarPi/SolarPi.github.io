@@ -126,11 +126,11 @@ Our old Solar Pi also had a number of issues:<br>
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>About</h2>
+			<h2>Gallery</h2>
 		</header>
-		<p>Take a look at our 'About' page to learn more.</p>
+		<p>Take a look at the 'Gallery' page to see more photos!.</p>
 		<ul class="actions">
-			<li><a href="2-about.html" class="button next">Read</a></li>
+			<li><a href="3-gallery.html" class="button next">Take a look</a></li>
 		</ul>
 	</div>
 </section>

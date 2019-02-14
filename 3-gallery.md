@@ -38,6 +38,6 @@ Though sadly, its gearbox failed before all the case could be printed. Rest in p
 
 ![The Solar Pi Welcome application](assets/images/welcome.png)
 
-# Settings
+## Settings
 
 ![The Solar Pi Settings application](assets/images/settings.png)

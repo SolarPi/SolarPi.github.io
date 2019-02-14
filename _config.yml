@@ -4,7 +4,7 @@ subtitle:
 email: TeamSolarPi@gmail.com
 description: The website for the Solar Pi project
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://SolarPi.github.io"
+url: ""
 author:
 street_address: No, you're not going to my house for a visit
 city: No, you're not having the name of the city I take residence in
