@@ -74,9 +74,9 @@ Our old Solar Pi also had a number of issues:<br>
 					<h3>TeenTech Year 2: 2017-2018</h3>
 				</header>
 				<p>
-                    We started off our second year of TeenTech by contacting Lord Mendelsohn - someone who attented the TeenTech finals the year before. After writing a letter to him, he generously donated £250 to fund the new parts for the project. We decided to use a new set of parts to address the shortcomings of the last year's Solar Pi.<br><br>
+                    We started off our second year of TeenTech by contacting Lord Mendelsohn - someone who attended the TeenTech finals the year before. After writing a letter to him, he generously donated £250 to fund new parts for the project, which would be used to address the shortcomings of last year's Solar Pi.<br><br>
                     We also began to write some software in <a href="https://www.python.org/">Python</a> for the Solar Pi. This enhanced its offline capability, gives the user an introduction into using a computer and allows settings to be changed that are specific to the Solar Pi. The code is available to view and download online at <a href="https://github.com/SolarPi/Solar-Pi">https://github.com/SolarPi/Solar-Pi</a>.<br><br>
-                    Finally, we also started work on designing a case that would be 3D printed. This would be a case that would hold all the components securely, taking the Solar Pi from a selection of parts to a fully functioning device.. Screenshots of the CAD drawing and images of the parts being 3D printed can be viewed in the <a href="/3-gallery">Gallery</a>.
+                    Finally, we also started work on designing a case that would be 3D printed. This would be a case that would hold all the components securely, taking the Solar Pi from a selection of parts to a fully functioning device. Screenshots of the CAD drawing and images of the parts being 3D printed can be viewed in the <a href="/3-gallery">Gallery</a>.
                 </p>
 			</div>
 		</div>
@@ -96,6 +96,7 @@ Our old Solar Pi also had a number of issues:<br>
 				We also started to 3D print the case, but during the process, its gearbox failed! This meant that we attended the finals with half the case printed.<br><br>
 				Our main category was 'Tech for All', with our secondary one being 'Manufacturing'. At the TeenTech finals in London, it was was a pleasant surprise to see other guests taking interest in our project and (inbetween the visits to our stand) seeing the creative ideas in other teams' projects.<br>
 				Finally, after a nervewracking wait, we were presented with an award, winning the 'Tech for All' category!
+
 
 				</p>
 			</div>
@@ -128,11 +129,11 @@ Our old Solar Pi also had a number of issues:<br>
 		<header class="major">
 			<h2>Gallery</h2>
 		</header>
-		<p>Take a look at the 'Gallery' page to see more photos!.</p>
+		<p>Take a look at the 'Gallery' page to see more photos!</p>
 		<ul class="actions">
 			<li><a href="3-gallery.html" class="button next">Take a look</a></li>
 		</ul>
 	</div>
 </section>
 
-</div>
+</div> 
