@@ -1,7 +1,7 @@
 ---
 layout: post
 title: About
-description: What is Solar Pi?
+description: About us
 image: 
 nav-menu: true
 ---
