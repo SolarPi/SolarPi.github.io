@@ -106,7 +106,7 @@ Our old Solar Pi also had a number of issues:<br>
 
 	<section>
 		<a class="image">
-			<img src="assets/images/palace-prep.jpg" alt="" data-position="25% 25%" />
+			<img src="assets/images/buckingham-palace-1.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -114,8 +114,10 @@ Our old Solar Pi also had a number of issues:<br>
 					<h3>Buckingham Palace Awards Ceremony: February 2019</h3>
 				</header>
 				<p>
-				Towards the end of January we received an email regarding the Awards Ceremony, held at Buckingham Palace. At the time of writing, we haven't attended yet, but we're really looking forward to it!<br><br>
-				It's a privilage to be able to go and present our work there, and it's also amazed us that our solar powered computer has taken us this far. TeenTech has provided us with a fantasic opportunity and it's been a truly fascinating journey. As a team, we've learnt more about Linux, programming, 3D printing and design - knowledge we wouldn't have gained had we not taken part.<br><br>Happy 10th birthday, TeenTech!
+				It's a privilege to be able to go and present our work at Buckingham Palace, and it's also amazed us that our solar powered computer has taken us this far. TeenTech has provided us with a fantasic opportunity and it's been a truly fascinating journey. As a team, we've learnt more about Linux, programming, 3D printing and design - knowledge we wouldn't have gained had we not taken part.<br><br>
+				At the Awards Ceremony, we met the Duke of York, Dallas Campbell, competition sponsors and other finalists. The overall experience, from meeting these people to having tea and biscuits at the Palace was truly amazing!
+				<br><br>Happy 10th birthday, TeenTech!
+				<br><br>We plan to publish a blog post on this website about our trip, so please check back soon if you are interested.
 				</p>
 			</div>
 		</div>
