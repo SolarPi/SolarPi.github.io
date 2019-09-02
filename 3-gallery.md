@@ -26,7 +26,7 @@ Here are some more images that would we couldn't fit into the Project Info timel
 
 ## Fusion 360 CAD Drawing
 
-![Fusion 360 CAD Drawing](assets/images/fusion360.png)
+![Fusion 360 CAD Drawing](assets/images/fusion360.jpg)
 
 ## Our 3D Printer in action!
 
