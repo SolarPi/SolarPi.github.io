@@ -114,11 +114,13 @@ Our old Solar Pi also had a number of issues:<br>
 					<h3>Buckingham Palace Awards Ceremony: February 2019</h3>
 				</header>
 				<p>
-				It's a privilege to be able to go and present our work at Buckingham Palace, and it's also amazed us that our solar powered computer has taken us this far. TeenTech has provided us with a fantasic opportunity and it's been a truly fascinating journey. As a team, we've learnt more about Linux, programming, 3D printing and design - knowledge we wouldn't have gained had we not taken part.<br><br>
+				It's a privilege to be able to go and present our work at Buckingham Palace, and it's also amazed us that our solar powered computer has taken us this far. TeenTech has provided us with a fantasic opportunity and it's been a truly fascinating journey. As a team, we've learnt more about Linux, programming, 3D printing and design - knowledge we wouldn't have gained had we not taken part.<br>
 				At the Awards Ceremony, we met the Duke of York, Dallas Campbell, competition sponsors and other finalists. The overall experience, from meeting these people to having tea and biscuits at the Palace was truly amazing!
 				<br><br>Happy 10th birthday, TeenTech!
-				<br><br>We plan to publish a blog post on this website about our trip, so please check back soon if you are interested.
-				</p>
+				<br><br>If you'd like to see what it was like on the day, check out our blog post below!</p>
+				<ul class="actions">
+					<li><a href="3-blog.html" class="button next">Blog!</a></li>
+				</ul>
 			</div>
 		</div>
 	</section>
@@ -133,7 +135,7 @@ Our old Solar Pi also had a number of issues:<br>
 		</header>
 		<p>Take a look at the 'Gallery' page to see more photos!</p>
 		<ul class="actions">
-			<li><a href="3-gallery.html" class="button next">Take a look</a></li>
+			<li><a href="4-gallery.html" class="button next">Take a look</a></li>
 		</ul>
 	</div>
 </section>
