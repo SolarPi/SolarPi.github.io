@@ -46,7 +46,7 @@ There was also a mount for the display, but I'm afraid you'll have to just imagi
 
 A day before we set off, we received the invitations from Buckingham Palace! Inside was a red invitation card, a map, a letter with additional information and a another invitation card with gold edges. Included with the map showed the 'Identification Requirements'. There was Box A and Box B. Students (like myself) only had to show a form of ID from Box A. What was quite amusing was that a 'Firearms Certificate' was in that category, which is something that you wouldn't expect a student to have...
 
-![ID](assets/images/DSC_1993.jpg)
+![ID](assets/images/DSC_1993.JPG)
 
 
 
@@ -64,13 +64,13 @@ Today is the day! I have to admit, I was pretty excited about the trip to Buckin
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 This was just a regular school day, so in essence, I had a day off school too, which was a shame ~~or nice added bonus~~. My first lesson was Photography - a pretty normal lesson. The teaching assistant who was going on the trip with us was there in the lesson with us, and we were discussing both the trip and various Photography ideas. The lesson ended and we decided to go to pack everything during Lesson 2, skipping Chemistry (sorry, chemistry teacher!). We picked up our stuff from DT and checked that we'd got all the things we needed - the Solar Pi, display board things, handouts, 3D printed bits and pieces, extra cables/battery banks and the trophy. Everything seemed to just about fit, so we went to another classroom until 10:30 - when we were due to leave school to walk to the train station. While we waited, we looked at _how_ we'd get to Buckingham Palace, and watched a video from the TeenTech finals last year, with a cheer whenever we saw 'Solar Pi' pop up on screen.
 
-![maps](assets/images/DSC_0650.jpg)
+![maps](assets/images/DSC_0650.JPG)
 
 The time eventually came when we had to leave, so we met up with the TA who'd be going with us and headed off. Looking at Google Maps right now, it looks like it took us around 30-40 mins to get to the train station. Still, it was a pleasant walk, as the skies were clear and sunny. The day also happened to be in the middle of a 'mini heatwave', so the weather was pretty odd for February - when we reached London, it hit 18C, which is pretty toasty compared to the 'regular' temperatures for this time of year.
 
 Once at the train station, we all split up and bought some snacks ~~also known as lunch, if you're me~~ for the train journey ahead. The train arrived on time (hurray!) and we grabbed our seats. To keep me occupied, I listened to a podcast that I downloaded some time before (probably for my previous long journey): [Episode 110 of Hello Internet](http://www.hellointernet.fm/podcast/110).
 
-![snacks](assets/images/DSC_0652.jpg)
+![snacks](assets/images/DSC_0652.JPG)
 
 ![Train to London](assets/images/rtt-to-london.png)
 
@@ -82,33 +82,33 @@ About 90 mins later, we arrived at London Euston, on time (I think) and set off 
 
 We got to the British Museum, but before we could get in, there was a bag check. I wonder what they thought about a big white cardboard box sitting inside a backpack (don't worry, it only contains the Solar Pi, and nothing else)... clearly they were okay with it as we went through without any issues. After taking some photos outside, we decided to head in. It was my first time at the British Museum, and the space inside is pretty impressive - I'm sure the photos will do the talking :)
 
-![British Museum 1](assets/images/DSC_0004.jpg)
+![British Museum 1](assets/images/DSC_0004.JPG)
 
-![British Museum 2](assets/images/DSC_0017.jpg)
+![British Museum 2](assets/images/DSC_0017.JPG)
 
-![British Museum 3](assets/images/DSC_0023.jpg)
+![British Museum 3](assets/images/DSC_0023.JPG)
 
 We stayed for around 30 mins, and in that time we had a toilet break and had a quick wander around. Now, there's something which I found quite amusing, but I can't remember whether we saw it on the way in or on the way out (probably the latter). There was a woman standing by a tree, rapidly tapping her phone with a fairly hefty amount of force - a team member noted that it reminded them of how 'old people' use phones. We headed off towards Buckingham Palace, not really aware of how long and tiring it was going to be...
 
 We passed Piccadilly Circus, down Piccadilly and through Green Park, before finally reaching Buckingham Palace. As it turns out, Green Park provides some really nice opportunities for good photos with 'leading lines':
 
-![Piccadilly Circus](assets/images/DSC_0658.jpg)
+![Piccadilly Circus](assets/images/DSC_0658.JPG)
 
-![Green Park 1](assets/images/DSC_0040.jpg)
+![Green Park 1](assets/images/DSC_0040.JPG)
 
-![Green Park 2](assets/images/DSC_0052.jpg)
+![Green Park 2](assets/images/DSC_0052.JPG)
 
-![Green Park 3](assets/images/DSC_0060.jpg)
+![Green Park 3](assets/images/DSC_0060.JPG)
 
-![Green Park 4](assets/images/DSC_0062.jpg)
+![Green Park 4](assets/images/DSC_0062.JPG)
 
 And now for some photos of Buckingham Palace itself! But I've held some back - there are better ones further down.
 
-![Buckingham Palace 1](assets/images/DSC_0056.jpg)
+![Buckingham Palace 1](assets/images/DSC_0056.JPG)
 
-![Buckingham Palace 2](assets/images/DSC_0071.jpg)
+![Buckingham Palace 2](assets/images/DSC_0071.JPG)
 
-![Buckingham Palace 3](assets/images/DSC_0074.jpg)
+![Buckingham Palace 3](assets/images/DSC_0074.JPG)
 
 
 
@@ -184,4 +184,4 @@ According to my Fitbit, we walked over 11.5km and accumulated nearly 18,000 step
 
 That's pretty much it! I wrote up a short bullet point list of the day's events when I got home and exactly a week after this trip, I started to write this blog post, properly. Looking back, it was definitely quite the experience. I will again reference the [About](/2-about.html) page to show how grateful I am - while not _everything_ went to plan, to see the project I'd been working on for over half my time in secondary school (we started it in Year 9) go this far is truly amazing. There's also an element of sadness with this trip too - it marks the end of the line for Solar Pi and TeenTech. While there is a chance that the project might progress further, next year I'll be too old to participate in the 'regular' TeenTech categories.
 
-So, that's really the end of this blog post. I'm not too sure how to finish it off, so thanks for reading, and well done if you read all 4498 (or so) words!
+So, that's really the end of this blog post. I'm not too sure how to finish it off, so thanks for reading, and well done if you read all 4423 (or so) words!
